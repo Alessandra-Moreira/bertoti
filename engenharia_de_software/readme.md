@@ -11,4 +11,4 @@ Primeiro Diagrama de Classes UML
 Loja de Aluguel de Carros
 
 
-![Diagrama UML](https://user-images.githubusercontent.com/107525483/224845448-6d312839-9fd0-416f-9dcf-cdab3f587134.jpg)
+![Diagrama de Classe UML 3](https://user-images.githubusercontent.com/107525483/226068993-80632569-ed5c-47ae-9aa6-90cb39636d5c.jpg)
