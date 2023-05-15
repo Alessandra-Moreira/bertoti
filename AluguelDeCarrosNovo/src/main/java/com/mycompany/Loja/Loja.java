@@ -46,6 +46,10 @@ public class Loja {
     public void adicionarFuncionario(Funcionario funcionario){
         //funcionario.add(funcionario);
     }
+    
+    public void adicionarCliente(Cliente cliente){
+        //funcionario.add(funcionario);
+    }
 
 
 }

@@ -13,7 +13,7 @@ public class Teste {
         Loja loja = new Loja("ok","ok", car);
         loja.adicionarCarro(carro1);
         
-         assertEquals(1, loja.getCarros().size());
+        assertEquals(1, loja.getCarros().size());
 	}      
 
     }
