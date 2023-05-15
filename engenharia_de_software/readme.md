@@ -1,7 +1,10 @@
 Definição de Engenharia de Software
 
-Engenharia de software além de programar se preocupa com tempo, escala e trade-offs. É necessário se preocupar com o tempo e possíveis modificações necessárias, além da escalabididade do produto.
-Trade-off situação com conflito de escolha, ocorre de maneira compensatória onde há a perda de um serviço ou qualidade e o ganho de um serviço ou qualidade distinto.
+Engenharia de software é uma disciplina que se concentra no processo de desenvolvimento de software, desde a concepção até a entrega e manutenção do produto. Além de programar, a engenharia de software aborda questões como gerenciamento de tempo, escalabilidade e tomada de decisão em relação a trade-offs. Isso inclui a gestão de projetos, definição de requisitos, análise e design de sistemas, implementação de código, testes, integração e entrega contínua. A engenharia de software também enfatiza a importância da comunicação, colaboração e trabalho em equipe para garantir o sucesso do projeto.
+Trade-off é uma situação em que a escolha ou obtenção de um benefício implica em sacrificar outro benefício ou objetivo. É uma decisão que envolve escolher entre duas opções, levando em conta as vantagens e desvantagens de cada uma.
 
+Requisitos
 
+Os requisitos são descrições de características necessárias para um sistema alcançar e satisfazer uma necessidade do mundo real. Há dois tipos de requisitos: funcionais e não funcionais. Os requisitos funcionais são as necessidades que devem ser atendidas pelo software, como, por exemplo, consultar o status de um pedido. Já os requisitos não funcionais dizem respeito à forma como as soluções serão implementadas pelo software, como a escolha do sistema operacional.
 
+![Diagrama de classe UML 4](https://github.com/Alemoreira-00/bertoti/assets/107525483/2733320c-70e5-47ff-ae28-a965e994a974)
