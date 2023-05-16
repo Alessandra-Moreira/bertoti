@@ -7,4 +7,5 @@ Requisitos
 
 Os requisitos são descrições de características necessárias para um sistema alcançar e satisfazer uma necessidade do mundo real. Há dois tipos de requisitos: funcionais e não funcionais. Os requisitos funcionais são as necessidades que devem ser atendidas pelo software, como, por exemplo, consultar o status de um pedido. Já os requisitos não funcionais dizem respeito à forma como as soluções serão implementadas pelo software, como a escolha do sistema operacional.
 
-![Diagrama de classe UML 4](https://github.com/Alemoreira-00/bertoti/assets/107525483/2733320c-70e5-47ff-ae28-a965e994a974)
+
+![diagrama de classe UML 5](https://github.com/Alemoreira-00/bertoti/assets/107525483/1b763b4e-948c-4316-bf56-5dd7c2da3a27)
