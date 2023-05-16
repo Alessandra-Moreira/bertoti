@@ -10,7 +10,8 @@ public class Reserva {
     private int dataDevolucao;
     private int horaDevolucao;
     private Loja local;
-    private List<Carro> carroDisponivel = new LinkedList<Carro>();
+    private List<Carro> carroDisponivel = new LinkedList<>();
+    private Iterable<Carro> carros;
 
     public Reserva(int dataRetirada, int horaRetirada, int dataDevolucao, int horaDevolucao, Loja local) {
         this.dataRetirada = dataRetirada;
@@ -60,6 +61,14 @@ public class Reserva {
     public void setCarroDisponivel(List<Carro> carroDisponivel) {
         this.carroDisponivel = carroDisponivel;
     }
-	
+    
+    public List<Carro> buscarCarrosDisponiveis(String modelo){
+    List<Carro> encontrados = new LinkedList<Carro>();
+    for (Carro carro: carros){
+        if (carro.getModelo().equals(modelo))
+            encontrados.add(carro);
+        }
+    return encontrados;
+    }
 
 }
