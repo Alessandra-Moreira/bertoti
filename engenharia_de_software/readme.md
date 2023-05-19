@@ -12,4 +12,5 @@ Os requisitos são descrições de características necessárias para um sistema
 
 
 ### Diagrama de Casos de Uso 
-![cases](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/32a707d9-c970-459b-bd61-e54e799c701e)
+
+![cases](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/c38ff537-65b4-4191-b31a-0026eb381644)
