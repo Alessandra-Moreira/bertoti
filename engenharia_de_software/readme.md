@@ -8,8 +8,9 @@ Trade-off é uma situação em que a escolha ou obtenção de um benefício impl
 Os requisitos são descrições de características necessárias para um sistema alcançar e satisfazer uma necessidade do mundo real. Há dois tipos de requisitos: funcionais e não funcionais. Os requisitos funcionais são as necessidades que devem ser atendidas pelo software, como, por exemplo, consultar o status de um pedido. Já os requisitos não funcionais dizem respeito à forma como as soluções serão implementadas pelo software, como a escolha do sistema operacional.
 
 ### Diagrama de Classes UML
-![diagrama de classe UML 5](https://github.com/Alemoreira-00/bertoti/assets/107525483/1b763b4e-948c-4316-bf56-5dd7c2da3a27)
 
+
+![diagrama de classe UML 6](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/db8f4a23-4a9c-4cbc-8837-87f8253f619b)
 
 ### Diagrama de Casos de Uso 
 
