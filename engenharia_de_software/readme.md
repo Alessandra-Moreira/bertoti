@@ -7,7 +7,8 @@ Exemplo: Em um sistema de comércio eletrônico, há um trade-off entre desempen
 
 ### Diagrama de Casos de Uso 
 
-![cases](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/c38ff537-65b4-4191-b31a-0026eb381644)
+![Diagrama de Classes UML 7](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/b7c37f47-9df6-43a5-826f-a393e6e18019)
+
 
 ### Diagrama de Classes UML
 
