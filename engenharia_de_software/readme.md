@@ -12,4 +12,4 @@ Exemplo: Em um sistema de comércio eletrônico, há um trade-off entre desempen
 
 ### Diagrama de Classes UML
 
-![Diagrama de Classes UML 7](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/54cff7e0-fb15-4765-8c8e-3c7644b4b902)
+![Diagrama de classe UML certo drawio](https://github.com/Alessandra-Moreira/bertoti/assets/107525483/990e2322-137a-4638-be44-782a67157a9a)
